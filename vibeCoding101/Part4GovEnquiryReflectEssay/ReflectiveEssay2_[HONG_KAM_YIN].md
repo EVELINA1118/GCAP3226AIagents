@@ -1,13 +1,13 @@
-# Reflective Essay 2 — Government Data Access and AI Collaboration
+# Reflective Essay 2 — Typhoon Preparedness & Data-Driven Policy
 
-Name: [HONG KAM YIN]
-STUDENT ID: 25227394
-Date: 2025-10-14
+Name: HONG KAM YIN
+Student ID: 25227394
+Date: 2025-10-17
 
 ## Reflective Essay
 
-Drafting a formal enquiry for flu vaccination data reshaped how I understand Hong Kong’s data governance. I learned that data.gov.hk offers broad statistics, but district-level, program, and cost data usually require a Code on Access to Information request and careful justification.
+Participating in Team 3's typhoon preparedness project gave me a deeper understanding of the challenges in Hong Kong's government data governance, especially during extreme weather events. From drafting enquiries to the Hong Kong Observatory about signal decision-making, to analyzing historical typhoon data, I realized that while much data is public, the most critical decision criteria—such as real-time wind speed, timing, and interdepartmental coordination—often require formal requests and may not be fully disclosed.
 
-The writing process forced specificity: naming fields (e.g., vaccination rates by age/district, school consent rates, ICU occupancy), formats (CSV/Excel), and time windows (2019–2024). I also had to acknowledge privacy limits and propose aggregated, anonymised outputs. The AI agent helped structure the letter, tighten tone, and check completeness, while the earlier chatbot tutor was better for exploring policy context and trade-offs. Together, they pushed me to be precise and realistic about what government can release and within what timelines.
+Writing the government enquiry taught me to specify exactly what data fields I needed (signal issuance time, wind speed at each station, casualty and damage reports) and to reference the Code on Access to Information for a professional and respectful request. The AI agent helped me refine the letter's structure, tone, and completeness, but the real judgment about data needs came from applying course concepts like regression and simulation, and discussing with my team. This collaboration made me think more critically about the data foundations and risk trade-offs behind government decisions.
 
-This exercise strengthened my project plan. If the request is denied or delayed, I will pivot to open datasets, HA reports, and a small survey to triangulate insights. More importantly, I now see data access as a professional skill: clear scoping, respectful communication, and contingency planning—all essential for evidence-based policymaking beyond this course.
+This experience strengthened my data literacy and showed me the importance of contingency planning in policy analysis: if requests are denied or data is incomplete, I can supplement with open datasets, news reports, and simulation analysis. In the future, combining data enquiry, AI collaboration, and critical reflection will be essential for my work in public policy and crisis management.
