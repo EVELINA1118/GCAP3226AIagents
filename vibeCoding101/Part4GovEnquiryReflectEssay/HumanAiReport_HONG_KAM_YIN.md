@@ -1,11 +1,4 @@
----
-title: "Human–AI Collaboration Report"
-author: "HONG KAM YIN"
-student_id: "25227394"
-date: "2025-11-29"
-description: "A 1,000-word narrative reflection on my collaboration with AI tools during GCAP3226 (Typhoon project)."
-image: "" # optional preview image URL
----
+
 
 # Human–AI Collaboration Report
 
