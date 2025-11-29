@@ -52,6 +52,4 @@ This course accelerated my proficiency in computational tools and my ability to 
 
 I now feel better prepared to use AI in public policy or analytics contexts to accelerate routine tasks, while maintaining ethical standards and critical oversight. These transferable skills—prompt engineering, validation practices, and policy translation—are relevant for roles in analytics, public administration, and research.
 
-***
 
-*Report generated with human oversight and editing by the author. If you require additional annotations or raw chat logs, I can add them to the repository upon request.*
