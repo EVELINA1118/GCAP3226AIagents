@@ -1,0 +1,59 @@
+# Human-AI Collaboration Report
+
+Name: HONG KAM YIN
+Student ID: 25227394
+Date: 2025-11-29
+
+## Executive Summary (100-150 words)
+
+During this course, I used a combination of large language models (Gemini 2.5Pro), GitHub Copilot, to clarify theoretical frameworks, debug Python code, and adapt written material for presentations. AI accelerated my workflow by providing targeted literature-review guidance, fixing programming issues, and helping to distill complex essays into concise slide frameworks. However, my role remained essential in defining context, assessing data governance implications, validating AI-proposed methods, and translating AI output into empirically grounded analysis. The collaboration sharpened my critical thinking and practical skills in modelling, data interpretation, and policy-focused writing.
+
+## AI Usage Overview (200-250 words)
+
+Over the semester, I employed AI tools for four major tasks: background research, code debugging, model design, and communication polishing. Early in the course, I used Gemini 2.5Pro to clarify the purpose and scope of literature reviews and theoretical frameworks, which gave me structured lists of relevant lenses (e.g., the precautionary principle, stakeholder theory) and ideas to situate our typhoon signal research. For coding tasks in Weeks 1–4, I relied heavily on GitHub Copilot to diagnose and correct Python errors, which was especially useful since I was not initially confident in Python syntax. Finally, prior to our team presentation, I used Gemini to synthesize essay text into slide-friendly bullet points and a four-slide structure that succinctly communicated our literature review and theoretical lenses.
+
+Throughout the semester, my AI usage evolved from exploratory prompt-based queries to more structured, iterative interactions. At first I used AI mainly for fast clarifications and suggestions; by mid-semester I began using it as a collaborator that could generate alternative model choices or suggest phrasing for complex policy critiques. I also adapted my prompts over time to reduce hallucinations and focus on verifiable outputs. For instance, an early prompt like “Explain stakeholder theory” evolved into a more targeted query: “Critically apply stakeholder theory to the Hong Kong Observatory’s communication strategy during a T8 signal.” I also explicitly ask for source-based justifications.
+
+## Chat History Portfolio (Not included in word count)
+
+Below I excerpt three representative AI interactions. Each entry includes my prompt, the AI response excerpt, how I used the output, and what I validated or modified.
+
+1) Literature Review & Theoretical Framework (Gemini 2.5Pro)
+- Prompt: "What is the role of a Literature Review and Theoretical Framework for our Signal 8 decision-making research?"
+- Gemini Response (translated excerpt): The Literature Review and Theoretical Framework serves to: (1) situate your research in the existing literature; (2) provide theoretical lenses and models such as decision theory and evidence-based public administration; (3) identify research gaps (for example, limited studies on HKO decision transparency and the mismatch between real-time data and decision timing); (4) justify methodological choices like regression or simulation modeling. Gemini also suggested tasks (2.1 to 2.4) including Signal 8 decision literature, HKO criteria comparison with other jurisdictions, data analysis methodologies, and focused research gap statements.
+- How I used it: I used Gemini’s structured list to organize our literature review and to select three theoretical lenses (the precautionary principle, transparency & accountability, stakeholder theory). I followed the suggested tasks to search for HKO criteria and comparative standards and to identify gaps that our analysis could fill.
+- Validation/Modification: I cross-checked the suggested theory citations and methodological recommendations against peer-reviewed sources and HKO documentation. I adjusted the emphasis of the theoretical lenses to reflect Hong Kong’s institutional context and included more local case studies.
+
+2) Python Debugging (GitHub Copilot)
+- Prompt: "Why does my code throw an IndexError on line 42?"
+- Copilot Response (excerpt): Diagnosed that the list index was being accessed without boundary checks and suggested an `if idx < len(list):` guard.
+- How I used it: I applied the suggested fix, reran my notebook, and confirmed the script executed as expected.
+- Validation/Modification: I added unit tests and exception handling, and refactored the loop for clarity.
+
+3) Slide Summarization & Presentation Design (Gemini 2.5Pro)
+- Prompt: "How can I summarize the essay from Section II, Literature Review and Theoretical Framework, into a PowerPoint presentation with a presentation time of no more than one minute and thirty seconds?"
+- Gemini Response (translated excerpt): Gemini provided a four-slide outline: Slide 1 — Title (project and presenter); Slide 2 — Three theoretical lenses (precautionary principle, transparency, stakeholder theory) with visual suggestions; Slide 3 — HKO 'Yardstick' for signal accuracy (wind speed ranges, 8 reference stations, '≥4/8 rule'); Slide 4 — Problem vs. Solution and why the research matters, including proposed contributions and methods (e.g., comparing predictive models across events).
+- How I used it: I used the outline as a starting structure for our team slides: assigning slides to presenters, adapting language to the 1.5-minute total time limit, and creating visuals for the HKO criteria. The guidance on slide order and the problem/solution framing improved our narrative flow.
+- Validation/Modification: I tested the slide timing during rehearsal, condensed language where necessary, and replaced proposed icons with visuals consistent with our slide style. I also checked the HKO facts against official criteria to avoid misstatements.
+
+## Reflection on Human-AI Collaboration (400-500 words)
+
+My experience using AI in this course was a process of learning to delegate routine and exploratory tasks while keeping critical judgment central. AI accelerated several routine tasks: it proposed succinct explanations of methodological concepts, suggested debugging steps, and produced alternative phrasing for our presentation. For the literature review, Gemini offered a clear scaffolding that saved hours during the initial drafting phase; however, it did not replace my need to read primary source materials. The AI could suggest theories and frameworks, but it could not determine which theoretical lens best fit the historical and institutional context of the Hong Kong Observatory. That required domain knowledge and a nuanced reading of past reports and public submissions on disaster response.
+
+When using GitHub Copilot to debug Python code, I found it extremely valuable for catching common syntax and logic issues. Its automatic suggestions reduced the time spent on trivial debugging and let me concentrate on modeling decisions—such as which distributional assumptions to adopt for simulation or what predictors to include in a regression. Important to note: I always verified Copilot's suggested changes through test cases and peer-reviewed logic. I added boundary checks and unit tests where Copilot's suggestion was a quick fix but had potential edge-cases.
+
+AI also played an important role as a drafting assistant. For example, when compressing literature review text into a slide outline, Gemini quickly produced a structured slide flow; still, I adapted the wording to suit our narrative and audience timing. The output was a strong starting point, but the final content required human judgment: removing over-generalized claims, calibrating language for public audiences, and verifying technical claims against HKO documentation.
+
+Throughout this collaboration, I learned to treat AI as a reasoning engine that can offer options and highlight assumptions rather than provide final answers. I learned to craft better prompts; instead of broad questions like “What is simulation?”, I asked targeted prompts like “Given our dataset and target KPI, what stochastic components should a DES include and why?” This produced more useful, narrower responses. Ethically, I was conscious of data governance and privacy; when dealing with sensitive datasets or draft communication, I anonymized data or avoided sharing raw personal information in prompts.
+
+A major technical skill I developed was validating AI output systematically: test-driven checks for code, triangulating LLM claims with peer-reviewed literature or official HKO criteria, and comparing model outputs with baseline expectations. The course taught me that AI expedites workflows but requires human-led validation to produce robust public-policy analysis.
+
+## Learning Outcomes and Transferable Skills (150-200 words)
+
+This course accelerated my proficiency in computational tools, critical data interpretation, and policy-oriented communication. I improved my practical coding skills using Python, and I learned how to integrate AI-generated suggestions into a reproducible research workflow—creating unit tests. I also gained a better understanding of data governance issues and the practical limits of public data access in Hong Kong, particularly for time-sensitive events like typhoon signal hoisting.
+
+I came away with transferable skills: crafting effective prompts, building defensible analytical workflows, and using AI as a drafting and diagnostic assistant while maintaining the human responsibilities of contextual insight and ethical oversight. These skills apply beyond this course: in public policy, analytics roles in private industry (e.g., retail analytics or emergency services), and research environments where combined human-AI reasoning can improve productivity and rigor.
+
+
+---
+

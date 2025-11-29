@@ -1,0 +1,145 @@
+1.在写report的时候，我问了gemini 2.5pro model Literature Review and Theoretical Framework 的作用，Literature Review and Theoretical Framework是我在group report中需要写的部分。
+gemini 2.5pro model给了我以下回答：   簡單來說，這個部分的作用是向讀者展示你對該研究領域已經有了深入的了解，並為你自己的研究提供一個堅實的學術基礎和理論支撐。
+具體來說，它有以下幾個核心作用：
+展示現有知識體系 (Situate Your Research):
+你需要回顧和總結前人在此領域（如氣象決策、災害管理、公共政策透明度等）的研究成果。
+這能證明你的研究不是憑空想像，而是建立在現有的學術知識之上的。
+建立理論框架 (Provide a Theoretical Lens):
+你需要引用相關的理論和模型（例如：決策理論、公共行政中的循證決策模型、應急管理最佳實踐等）來幫助你分析問題。
+這個框架就像一個「分析工具箱」，為你後續的數據分析和解讀提供了理論依據。例如，當你分析天文台決策時，你可以運用公共政策分析的理論來評估其透明度和問責制。
+識別研究空白 (Identify the Research Gap):
+通過回顧文獻，你可以清楚地指出當前研究的不足之處。根據你的大綱，這些空白可能包括：對香港天文台決策過程透明度的研究有限、缺乏對實時數據與決策差異的深入分析等。
+明確指出這些「空白」，能有力地凸顯你的研究價值和貢獻——你的研究正是為了填補這些空白。
+避免重複研究並從前人經驗中學習 (Learn from Others):
+文獻回顧可以確保你的研究不會重複別人已經做過的工作。
+同時，你可以借鑒其他研究成功的研究方法或避免他們犯過的錯誤，從而完善你自己的研究設計。
+為你的研究方法提供理據 (Justify Your Methodology):
+你在文獻回顧中探討的數據分析方法（如統計分析、數學建模等），可以為你在第三部分「Methodology and Data Collection」中選擇具體的研究方法提供支持和理據。
+結合你的大綱，你的任務具體包括：
+2.1 Signal 8 Decision-Making Literature: 尋找並總結關於「氣象預警決策」、「政府應急管理透明度」等主題的學術文章和報告，看看專家們是怎麼看待這類問題的。
+2.2 Signal 8 Criteria and Standards: 整理香港天文台官方的八號信號標準，並可以的話，將其與其他國家或地區（如澳門、台灣、日本等）的颱風預警標準進行比較，以提供更廣闊的視角。
+2.3 Data Analysis Methodologies: 回顧學術上常用於分析天氣數據、評估政策決策準確性的方法，為你後續的數據分析部分提供理論武器。
+2.4 Research Gaps and Contributions: 在總結完以上所有內容後，明確指出：「雖然前人做了很多研究，但在……方面還存在不足，而這正是我們這個項目要貢獻的地方。」
+總之，文獻回顧與理論框架部分是連接「引言」和「研究方法」的橋樑。它向導師和讀者證明了你的學術嚴謹性，並為整個研究項目的方向和深度奠定了堅實的基礎。
+
+2. 在w1-w4的Python code writting中，由于Python我之前对它不太熟悉，所以我问了github copilot的agent，为什么我的代码会出现error。
+github copilot ，帮我更正了错误，帮助我完成了w1-w4的code writing任务。
+
+3.我用gemini 2.5pro model 帮我将report中essay形式的内容概括成可以写进slide里的bullet point；并提供了group presentation 的slides的框架。
+以下是聊天记录：user：How can I summarize the essay from Section II, Literature Review and Theoretical Framework, into a PowerPoint presentation with a presentation time of no more than one minute and thirty seconds?
+gemini 2.5pro model：Of course. Here is the detailed content for each of the four slides, presented entirely in English.
+
+Slide 1: Title Slide
+
+Design Style: Professional and clean. Use your team logo or course code if you have one. The background could be a clean white or dark color, or a subtle, blurred weather radar image.
+
+(Center of the slide, large font)
+
+II. Literature Review & Theoretical Framework
+
+(Slightly smaller font below the main title)
+
+Laying the Academic Foundation for Our Research
+
+(Bottom right corner)
+
+Presenter: Evelyn
+Team 3: Typhoon Signal Analysis
+
+Slide 2: The Three Theoretical Lenses
+
+Design Style: Use a three-column layout, with one theory per column. Place a simple, relevant icon next to each heading to make the concepts more visual and easier to grasp.
+
+(Title at the top of the slide)
+
+Beyond Wind Speed: The Three Theoretical Lenses
+
+(Column 1)
+[Suggested Icon: A shield 🛡️ or an exclamation mark ⚠️]
+
+The Precautionary Principle
+
+Keyword: Proactive Risk Management, Not Passive Reaction
+
+(Column 2)
+[Suggested Icon: An eye 👁️ or an open book 📖]
+
+Transparency & Accountability
+
+Keyword: The Cornerstone of Public Trust
+
+(Column 3)
+[Suggested Icon: A group of people 👥 or a network graphic 🌐]
+
+Stakeholder Theory
+
+Keyword: Balancing Safety, Economy, & Society
+
+Slide 3: The 'Yardstick' for Accuracy
+
+Design Style: Emphasize the numbers and the core rule. Use icons to reinforce the concepts. Make "The Golden Rule" the visual focal point of the slide, perhaps inside a colored box or with a larger font.
+
+(Title at the top of the slide)
+
+The 'Yardstick' for Accuracy: HKO's Official Criteria
+
+(Content divided into three main blocks)
+
+1. Wind Requirement
+[Suggested Icon: Anemometer/wind icon 🌬️]
+
+Wind Speed: 63-117 km/h
+
+(Gale Force)
+
+2. Location Requirement
+[Suggested Icon: Map pin icon 📍]
+
+Location: 8 Reference Stations
+
+3. The Golden Rule
+[Enclose this section in a highlighted box or use a distinct design]
+
+Rule:
+
+≥ 4 / 8 Stations
+
+(Half or More Must Meet the Criteria)
+
+Slide 4: Why Our Research Matters
+
+Design Style: Use a side-by-side, two-column layout to create a clear "Problem vs. Solution" contrast. Use a muted or greyed-out color scheme for "The Gap" and a brighter, more prominent color for "Our Contribution" to visually guide the audience.
+
+(Title at the top of the slide)
+
+Why Our Research Matters: Filling a Critical Gap
+
+(Left Column: The Problem / The Gap)
+[Suggested Icon: A magnifying glass with a question mark 🔍❓]
+
+The Current State & The Gap
+
+What Exists:
+
+Qualitative Discussions
+
+Single Case Studies
+
+The Gap (What's Missing):
+
+A Lack of Systematic, Data-Driven Validation Across Multiple Events
+
+(Right Column: The Solution / The Contribution)
+[Suggested Icon: A glowing lightbulb 💡 or an upward-trending chart 📈]
+
+Our Contribution
+
+What We Provide:
+
+Quantitative & Evidence-Based Analysis
+
+A Framework to Assess Multiple Typhoons
+
+Our Goal:
+
+To Conduct the FIRST Comprehensive, Data-Driven Accuracy Assessment
