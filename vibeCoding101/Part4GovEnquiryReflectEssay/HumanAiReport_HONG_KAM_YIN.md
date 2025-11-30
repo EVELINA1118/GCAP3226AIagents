@@ -23,7 +23,7 @@ Below I excerpt three representative AI interactions. Each entry includes my pro
 ### 1) Literature Review & Theoretical Framework (Gemini 2.5Pro)
 - **Prompt:** "What is the role of a Literature Review and Theoretical Framework for our Signal 8 decision-making research?"
 - **Gemini Response:**
-- Of course. Here is a more detailed, guiding version of the "II. Literature Review and Theoretical Framework" section, translated into English for your project report.
+- Here is a  detailed, guiding version of the "II. Literature Review and Theoretical Framework" section.
 
 ---
 
