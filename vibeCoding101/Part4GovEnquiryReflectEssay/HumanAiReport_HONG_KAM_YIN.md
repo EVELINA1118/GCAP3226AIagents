@@ -34,7 +34,7 @@ Below I excerpt three representative AI interactions. Each entry includes my pro
 
 ### 3) Slide Summarization & Presentation Design (Gemini 2.5Pro)
 - **Prompt:** "How can I summarize Section II (Literature Review and Theoretical Framework) into a 1.5-minute PowerPoint?"
-- **Gemini Response:
+- **Gemini Response:**
 - Of course. Here is the detailed content for each of the four slides, presented entirely in English.
 
 ### **Slide 1: Title Slide**
