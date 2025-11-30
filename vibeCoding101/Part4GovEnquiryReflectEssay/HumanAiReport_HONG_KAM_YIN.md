@@ -8,7 +8,7 @@
 
 ## Executive Summary (100–150 words)
 
-During this course, I used a combination of large language models (Gemini 2.5Pro) and GitHub Copilot to clarify theoretical frameworks, debug Python code, and adapt written material for presentations. AI accelerated my workflow by providing targeted literature-review guidance, fixing programming issues, and helping to distill complex essays into concise slide frameworks. However, my role remained essential in defining context, assessing data governance implications, validating AI-proposed methods, and translating AI output into empirically grounded analysis. The collaboration sharpened my critical thinking and practical skills in modelling, data interpretation, and policy‑focused writing.
+During this course, I used a combination of large language models (Gemini 2.5Pro) and GitHub Copilot to clarify theoretical frameworks, debug Python code, and adapt written material for presentations. AI accelerated my workflow by providing targeted literature review guidance, fixing programming issues, and helping to distil complex essays into concise slide frameworks. However, my role remained essential in defining context, assessing data governance implications, validating AI-proposed methods, and translating AI output into empirically grounded analysis. The collaboration sharpened my critical thinking and practical skills in modelling, data interpretation, and policy‑focused writing.
 
 ## AI Usage Overview (200–250 words)
 
@@ -44,7 +44,7 @@ My experience using AI in this course involved learning when to delegate tasks t
 
 Using GitHub Copilot, I reduced time spent on syntax and minor logic errors; the tool's suggestions allowed me to focus on substantive research design questions, such as appropriate model assumptions and predictor selection. However, Copilot's shortcuts sometimes required additional validation and defensive programming. I systematically validated AI recommendations with unit tests, citation checks, and peer review to ensure reliability and reproducibility.
 
-A key learning was treating AI as a reasoning assistant: I shifted from broad exploratory prompts to precision questions that asked about model design choices or data governance implications. This improved the relevance of AI suggestions while reducing hallucination risk. Ethically, I was cautious about privacy and sensitive content, anonymizing data and avoiding personally identifiable information in prompts. The experience deepened my appreciation for the human role in contextualizing and checking AI-derived insights.
+A key learning was treating AI as a reasoning assistant: I shifted from broad exploratory prompts to precision questions that asked about model design choices or data governance implications. This improved the relevance of AI suggestions while reducing hallucination risk. Ethically, I was cautious about privacy and sensitive content, anonymising data and avoiding personally identifiable information in prompts. The experience deepened my appreciation for the human role in contextualising and checking AI-derived insights.
 
 ## Learning Outcomes and Transferable Skills (150–200 words)
 
@@ -52,4 +52,6 @@ This course accelerated my proficiency in computational tools and my ability to 
 
 I now feel better prepared to use AI in public policy or analytics contexts to accelerate routine tasks, while maintaining ethical standards and critical oversight. These transferable skills—prompt engineering, validation practices, and policy translation—are relevant for roles in analytics, public administration, and research.
 
+In addition, the course strengthened my confidence in collaborating with AI systems without over-relying on them. I learned how to evaluate the limitations of AI models, question unsupported claims, and identify when manual verification is required. Most importantly, I developed a mindset of combining computational efficiency with human analytical judgment. This hybrid approach helped me produce work that was more accurate, structured, and aligned with real-world policy requirements. I believe these outcomes will continue to shape my future academic and professional development, especially in analytical roles where AI literacy and critical thinking are equally important.
 
+WORD COUNT: 986
