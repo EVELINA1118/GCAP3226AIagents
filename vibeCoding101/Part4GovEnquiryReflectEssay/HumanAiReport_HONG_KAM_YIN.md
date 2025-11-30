@@ -42,7 +42,7 @@ Below I excerpt three representative AI interactions. Each entry includes my pro
 **Design Style:** Professional and clean. Use your team logo or course code if you have one. The background could be a clean white or dark color, or a subtle, blurred weather radar image.
 
 **(Center of the slide, large font)**
-# **II. Literature Review & Theoretical Framework**
+**II. Literature Review & Theoretical Framework**
 
 **(Slightly smaller font below the main title)**
 ### *Laying the Academic Foundation for Our Research*
