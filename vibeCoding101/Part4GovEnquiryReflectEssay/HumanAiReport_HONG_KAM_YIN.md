@@ -34,7 +34,112 @@ Below I excerpt three representative AI interactions. Each entry includes my pro
 
 ### 3) Slide Summarization & Presentation Design (Gemini 2.5Pro)
 - **Prompt:** "How can I summarize Section II (Literature Review and Theoretical Framework) into a 1.5-minute PowerPoint?"
-- **Gemini Response (translated excerpt):** Gemini provided a four-slide outline: Slide 1 — Title and presenter; Slide 2 — Three theoretical lenses; Slide 3 — HKO 'Yardstick' for signal accuracy; Slide 4 — Problem vs. Solution and research significance.
+- **Gemini Response:
+- Of course. Here is the detailed content for each of the four slides, presented entirely in English.
+
+### **Slide 1: Title Slide**
+
+**Design Style:** Professional and clean. Use your team logo or course code if you have one. The background could be a clean white or dark color, or a subtle, blurred weather radar image.
+
+**(Center of the slide, large font)**
+# **II. Literature Review & Theoretical Framework**
+
+**(Slightly smaller font below the main title)**
+### *Laying the Academic Foundation for Our Research*
+
+**(Bottom right corner)**
+> **Presenter:** Evelyn
+> **Team 3:** Typhoon Signal Analysis
+
+---
+
+### **Slide 2: The Three Theoretical Lenses**
+
+**Design Style:** Use a three-column layout, with one theory per column. Place a simple, relevant icon next to each heading to make the concepts more visual and easier to grasp.
+
+**(Title at the top of the slide)**
+## **Beyond Wind Speed: The Three Theoretical Lenses**
+
+---
+**(Column 1)**
+**[Suggested Icon: A shield 🛡️ or an exclamation mark ⚠️]**
+
+### **The Precautionary Principle**
+*   **Keyword:** Proactive Risk Management, Not Passive Reaction
+
+---
+**(Column 2)**
+**[Suggested Icon: An eye 👁️ or an open book 📖]**
+
+### **Transparency & Accountability**
+*   **Keyword:** The Cornerstone of Public Trust
+
+---
+**(Column 3)**
+**[Suggested Icon: A group of people 👥 or a network graphic 🌐]**
+
+### **Stakeholder Theory**
+*   **Keyword:** Balancing Safety, Economy, & Society
+
+---
+
+### **Slide 3: The 'Yardstick' for Accuracy**
+
+**Design Style:** Emphasize the numbers and the core rule. Use icons to reinforce the concepts. Make "The Golden Rule" the visual focal point of the slide, perhaps inside a colored box or with a larger font.
+
+**(Title at the top of the slide)**
+## **The 'Yardstick' for Accuracy: HKO's Official Criteria**
+
+---
+**(Content divided into three main blocks)**
+
+**1. Wind Requirement**
+**[Suggested Icon: Anemometer/wind icon 🌬️]**
+*   **Wind Speed:** 63-117 km/h
+*   **(Gale Force)**
+
+**2. Location Requirement**
+**[Suggested Icon: Map pin icon 📍]**
+*   **Location:** 8 Reference Stations
+
+**3. The Golden Rule**
+**[Enclose this section in a highlighted box or use a distinct design]**
+*   **Rule:**
+    # ≥ 4 / 8 Stations
+*   **(Half or More Must Meet the Criteria)**
+
+---
+
+### **Slide 4: Why Our Research Matters**
+
+**Design Style:** Use a side-by-side, two-column layout to create a clear "Problem vs. Solution" contrast. Use a muted or greyed-out color scheme for "The Gap" and a brighter, more prominent color for "Our Contribution" to visually guide the audience.
+
+**(Title at the top of the slide)**
+## **Why Our Research Matters: Filling a Critical Gap**
+
+---
+**(Left Column: The Problem / The Gap)**
+**[Suggested Icon: A magnifying glass with a question mark 🔍❓]**
+
+### **The Current State & The Gap**
+
+*   **What Exists:**
+    *   Qualitative Discussions
+    *   Single Case Studies
+*   **The Gap (What's Missing):**
+    *   **A Lack of Systematic, Data-Driven Validation Across Multiple Events**
+
+---
+**(Right Column: The Solution / The Contribution)**
+**[Suggested Icon: A glowing lightbulb 💡 or an upward-trending chart 📈]**
+
+### **Our Contribution**
+
+*   **What We Provide:**
+    *   Quantitative & Evidence-Based Analysis
+    *   A Framework to Assess Multiple Typhoons
+*   **Our Goal:**
+    *   **To Conduct the FIRST Comprehensive, Data-Driven Accuracy Assessment**
 - **How I used it:** I used the outline to structure presentation slides, assign presenters, rehearse timing, and design visual elements that reflected HKO criteria.
 - **Validation/Modification:** I checked timings during rehearsal, revised text to match oral pacing, and verified technical claims using official HKO documentation.
 
