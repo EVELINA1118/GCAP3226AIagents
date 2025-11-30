@@ -6,17 +6,17 @@
 **Student ID:** 25227394  
 **Date:** 2025-11-29
 
-## Executive Summary (100–150 words)
+## Executive Summary 
 
 During this course, I used a combination of large language models (Gemini 2.5Pro) and GitHub Copilot to clarify theoretical frameworks, debug Python code, and adapt written material for presentations. AI accelerated my workflow by providing targeted literature review guidance, fixing programming issues, and helping to distil complex essays into concise slide frameworks. However, my role remained essential in defining context, assessing data governance implications, validating AI-proposed methods, and translating AI output into empirically grounded analysis. The collaboration sharpened my critical thinking and practical skills in modelling, data interpretation, and policy‑focused writing.
 
-## AI Usage Overview (200–250 words)
+## AI Usage Overview 
 
 Over the semester, I employed AI tools for four major tasks: background research, code debugging, model design, and communication polishing. Early in the course, I used Gemini 2.5Pro to clarify the purpose and scope of literature reviews and theoretical frameworks, which gave me structured lists of relevant lenses (e.g., the precautionary principle, stakeholder theory) and ideas to situate our typhoon signal analysis. For coding tasks, I relied heavily on GitHub Copilot to diagnose and correct Python errors, which was especially useful since I was not initially confident in Python syntax. Prior to our team presentation, I used Gemini to synthesize essay text into slide-friendly bullet points and a four-slide structure that succinctly communicated our literature review and theoretical lenses.
 
 Throughout the semester, my AI usage evolved from exploratory prompt-based queries to more structured, iterative interactions. Early prompts like “Explain stakeholder theory” evolved into targeted queries such as “Critically apply stakeholder theory to the Hong Kong Observatory’s communication strategy during a T8 signal.” I also increasingly requested source-based justifications and asked for verifiable outputs to reduce hallucinations.
 
-## Chat History Portfolio (Not included in word count)
+## Chat History Portfolio 
 
 Below I excerpt three representative AI interactions. Each entry includes my prompt, the AI response excerpt, how I used the output, and what I validated or modified.
 
@@ -38,7 +38,7 @@ Below I excerpt three representative AI interactions. Each entry includes my pro
 - **How I used it:** I used the outline to structure presentation slides, assign presenters, rehearse timing, and design visual elements that reflected HKO criteria.
 - **Validation/Modification:** I checked timings during rehearsal, revised text to match oral pacing, and verified technical claims using official HKO documentation.
 
-## Reflection on Human–AI Collaboration (400–500 words)
+## Reflection on Human–AI Collaboration 
 
 My experience using AI in this course involved learning when to delegate tasks to tools and when to prioritize human judgment. AI accelerated routine and exploratory tasks such as structuring literature reviews, providing code suggestions, and offering presentation outlines. Gemini's scaffolding saved time during drafting, but it could not replace context-driven decisions tailored to Hong Kong’s institutional settings. When my team considered the HKO’s decision frameworks, the AI suggested plausible lenses but I had to decide which theoretical angle fit local practices based on public reports and administrative norms.
 
@@ -46,7 +46,7 @@ Using GitHub Copilot, I reduced time spent on syntax and minor logic errors; the
 
 A key learning was treating AI as a reasoning assistant: I shifted from broad exploratory prompts to precision questions that asked about model design choices or data governance implications. This improved the relevance of AI suggestions while reducing hallucination risk. Ethically, I was cautious about privacy and sensitive content, anonymising data and avoiding personally identifiable information in prompts. The experience deepened my appreciation for the human role in contextualising and checking AI-derived insights.
 
-## Learning Outcomes and Transferable Skills (150–200 words)
+## Learning Outcomes and Transferable Skills 
 
 This course accelerated my proficiency in computational tools and my ability to integrate AI suggestions into reproducible workflows. I improved Python skills, developed unit-testing habits, and learned to triangulate outputs with primary sources and official documentation. I also enhanced communication skills: translating dense academic writing into concise slide content and policy-focused narratives.
 
